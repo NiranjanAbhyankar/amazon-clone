@@ -1,5 +1,5 @@
 # Link for website
-https://clone-a95db.web.app/
+https://tinyurl.com/amazon-clone-react
 
 # Getting Started with Create React App
 
